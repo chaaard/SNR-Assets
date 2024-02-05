@@ -1,2 +1,2 @@
-# S-R-Assets
+# SNR-Assets
 Images, Logos, Icons, Fonts
